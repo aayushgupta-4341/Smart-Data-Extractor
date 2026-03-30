@@ -13,7 +13,7 @@ This tool allows users to input any mixed data and automatically extract useful 
 
 ## 📂 GitHub Repository
 
-🔗 https://github.com/aayushgupta-4341/your-repo-name
+🔗 https://github.com/aayushgupta-4341/Smart-Data-Extractor.git
 
 ---
 
