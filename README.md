@@ -7,7 +7,7 @@ This tool allows users to input any mixed data and automatically extract useful 
 
 ## 🚀 Live Demo
 
-🔗 https://data-extractor-tool.netlify.app/
+🔗 https://smart-data-extractor-theta.vercel.app/
 
 ---
 
