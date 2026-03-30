@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Smart Extractor Tool</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Smart Data Extractor</h1>
+
+      <textarea
+        id="input"
+        placeholder="Enter text, emails, numbers, URLs..."
+      ></textarea>
+
+      <button onclick="processData()">Analyze Data</button>
+
+      <div class="output">
+        <h2>Emails</h2>
+        <p id="emails"></p>
+        <button onclick="copyText('emails')">Copy</button>
+
+        <h2>Phone Numbers</h2>
+        <p id="phones"></p>
+        <button onclick="copyText('phones')">Copy</button>
+
+        <h2>URLs</h2>
+        <p id="urls"></p>
+        <button onclick="copyText('urls')">Copy</button>
+
+        <h2>Numbers</h2>
+        <p id="numbers"></p>
+        <button onclick="copyText('numbers')">Copy</button>
+
+        <h2>Words</h2>
+        <p id="words"></p>
+        <button onclick="copyText('words')">Copy</button>
+
+        <h2>Repeated Values</h2>
+        <p id="duplicates"></p>
+        <button onclick="copyText('duplicates')">Copy</button>
+
+        <h2>Unique Values</h2>
+        <p id="unique"></p>
+        <button onclick="copyText('unique')">Copy</button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
