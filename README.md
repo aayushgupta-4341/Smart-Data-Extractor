@@ -41,7 +41,8 @@ This tool allows users to input any mixed data and automatically extract useful 
 
 ## 📸 Screenshot
 
-(Add your project screenshot here)
+<img width="1919" height="964" alt="Screenshot 2026-03-30 132814" src="https://github.com/user-attachments/assets/2bff1b8e-2fb4-4ccb-be51-bb2853d88d55" />
+
 
 ---
 
